@@ -39,4 +39,10 @@ Password admin : Mobilttterbang_00
 1. Choose your color palette (colorhunt, pinterest, behance, dribble, etc.)
   Enter your color into website:
   - Open your website => Customize => Colors => Paste your color code => Publish
-  - 
+
+
+===================================================================================
+Jobs
+- Connect to Database
+- Change database name
+- How to migrate
